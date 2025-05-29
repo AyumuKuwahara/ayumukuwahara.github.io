@@ -16,23 +16,6 @@ Education
 * Ph.D in Earth and Planetary Sciences, Tokyo Institute of Technology, 2023
 * M.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 2020
 * B.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 2018
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Grants and Fellowships
 ======
@@ -53,8 +36,3 @@ Awards
   * Outstanding Student Presentation Award in the Space and Planetary Sciences Section JpGU Meeting 2018
   * Excellent Student Award for Outstanding Academic Achievement, Tokyo Institute of Technology
   * Deputy representative of the graduating students, Tokyo Institute of Technology
-  
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
