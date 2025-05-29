@@ -22,7 +22,7 @@ repository               : "AyumuKuwahara/ayumukuwahara.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/500x300.png"
+  avatar           : "/images/500x300.png"
   #name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "postdoc at starplan, globe institute"
