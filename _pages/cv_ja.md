@@ -14,6 +14,11 @@ redirect_from:
 
 <br>
 
+職歴
+======
+* 研究員, Center for Star and Planet Formation (StarPlan), Globe Institute, University of Copenhagen, 2023-
+  * 受入教員: Michiel Lambrechts  
+
 学歴
 ======
 * 博士課程, 東京工業大学 理学院 地球惑星科学系, 2020-2023
