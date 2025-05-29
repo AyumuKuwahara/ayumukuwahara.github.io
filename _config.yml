@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ayumu Kuwahara"
+title                    : "TOP"
 title_separator          : "-"
 name                     : &name "Ayumu Kuwahara"
 description              : &description "postdoc"
@@ -22,7 +22,7 @@ repository               : "AyumuKuwahara/ayumukuwahara.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/500x300.png"
+  avatar           : "glasses.png"
   #name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "postdoc at starplan, globe institute"
