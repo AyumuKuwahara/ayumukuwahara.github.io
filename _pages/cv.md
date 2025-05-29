@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <div class="wordwrap"><a href="https://docs.google.com/document/d/1TAG3oUcoeZ7Dyqj5986lEaIxrNxtyLrdcGQYeUXQBgc/edit?tab=t.0
-">Full CV here</a></div>
+">Full CV here (google docs)</a></div>
 
 
 Education
