@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/8814AF29-F4B4-4F9D-92E4-9F56429FD119.JPG"
+  avatar           : "images/8814AF29-F4B4-4F9D-92E4-9F56429FD119.png"
   #name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "postdoc"
+  bio              : "postdoc at starplan, globe institute"
   location         : #"Earth"
   employer         : "University of Copenhagen"
   uri              : # URL
