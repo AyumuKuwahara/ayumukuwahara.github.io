@@ -13,6 +13,10 @@ redirect_from:
 
 <br>
 
+[日本語版はこちら](/cv_ja/)
+
+<br>
+
 Education
 ======
 * Ph.D in Earth and Planetary Sciences, Tokyo Institute of Technology, 2020-2023
