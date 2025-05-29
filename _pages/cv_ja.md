@@ -23,7 +23,7 @@ redirect_from:
   
 競争的資金等
 ======
-* 2020 - 2022
+* 2020 - 2023
   * 日本学術振興会特別研究員 DC1, 3,400,000 JPY
 * 2018
   * [第103回早川幸男基金](https://www.asj.or.jp/jp/activities/expenses/hayakawa_fund/recipients/2018/), 218,394 JPY
