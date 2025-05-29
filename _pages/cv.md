@@ -12,9 +12,6 @@ redirect_from:
 ">Full CV here</a></div>
 
 
-test
-
-
 Education
 ======
 * Ph.D in Earth and Planetary Sciences, Tokyo Institute of Technology, 2020-2023
