@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV here https://docs.google.com/document/d/1TAG3oUcoeZ7Dyqj5986lEaIxrNxtyLrdcGQYeUXQBgc/edit?tab=t.0
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Earth and Planetary Sciences, Tokyo Institute of Technology, 2023
+* M.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 2020
+* B.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 2018
 
 Work experience
 ======
@@ -32,32 +34,26 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Grants and Fellowships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020 - 2022
+  * JSPS Research Fellow, DC1, 3,400,000 JPY
+* 2018
+  * 103th Hayakawa Satio Fund awarded by the Astronomical Society of Japan (Overseas Research Fund for Young Researchers), 218,394 JPY
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2022
+  * Best Presentation Award, 2022 Fall Meeting of The Japanese Society for Planetary Science, Mito, Japan, September 2022
+* 2020
+  * Representative of the graduating students, Department of Earth and Planetary Sciences, Tokyo Institute of Technology
+  * Best Award for Master’s Thesis, Department of Earth and Planetary Sciences, Tokyo Institute of Technology
+* 2018
+  * 3rd place in Oral Award, 48th Astronomical/Astrophysical Young Summer School Star and Planetary Section
+  * Outstanding Student Presentation Award in the Space and Planetary Sciences Section JpGU Meeting 2018
+  * Excellent Student Award for Outstanding Academic Achievement, Tokyo Institute of Technology
+  * Deputy representative of the graduating students, Tokyo Institute of Technology
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
