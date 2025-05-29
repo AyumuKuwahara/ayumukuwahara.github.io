@@ -13,7 +13,6 @@ redirect_from:
 
 <br>
 
-[日本語版はこちら](/ja/cv/)
 <p><a href="/ja/cv/" style="padding: 6px 12px; background-color: #007ACC; color: white; border-radius: 4px; text-decoration: none;">
 日本語版はこちら
 </a></p>
