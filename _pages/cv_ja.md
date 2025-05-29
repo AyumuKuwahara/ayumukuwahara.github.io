@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /ja/cv/
 author_profile: true
+lang: ja
 redirect_from:
   - /resume
 ---
