@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "TOP"
+title                    : "Ayumu Kuwahara"
 title_separator          : "-"
 name                     : &name "Ayumu Kuwahara"
 description              : &description "postdoc"
