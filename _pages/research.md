@@ -33,4 +33,8 @@ author_profile: true
     <img src="/images/project2.jpg" alt="Project 2">
     <p><strong>Pebble accretion</strong><br>Planets accrete approximately mm to cm sized particles (pebbles). </p>
   </div>
+    <div class="grid-item">
+    <img src="/images/output.gif" alt="Project 3">
+    <p><strong>Gas accretion onto gap-opening planets</strong><br>Giant planets accrete gas in a runnaway fashin.</p>
+  </div>
 </div>
