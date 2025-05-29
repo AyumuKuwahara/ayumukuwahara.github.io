@@ -13,9 +13,9 @@ Full CV here https://docs.google.com/document/d/1TAG3oUcoeZ7Dyqj5986lEaIxrNxtyLr
 
 Education
 ======
-* Ph.D in Earth and Planetary Sciences, Tokyo Institute of Technology, 2023
-* M.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 2020
-* B.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 2018
+* Ph.D in Earth and Planetary Sciences, Tokyo Institute of Technology, 2020-2023
+* M.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 2018-2020
+* B.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 20214-2018
   
 Grants and Fellowships
 ======
@@ -27,7 +27,7 @@ Grants and Fellowships
 Awards
 ======
 * 2022
-  * Best Presentation Award, 2022 Fall Meeting of The Japanese Society for Planetary Science, Mito, Japan, September 2022
+  * Best Presentation Award, 2022 Fall Meeting of The Japanese Society for Planetary Science, Mito, Japan, September
 * 2020
   * Representative of the graduating students, Department of Earth and Planetary Sciences, Tokyo Institute of Technology
   * Best Award for Master’s Thesis, Department of Earth and Planetary Sciences, Tokyo Institute of Technology
