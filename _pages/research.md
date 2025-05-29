@@ -32,7 +32,7 @@ author_profile: true
   </div>
   <div class="grid-item">
     <img src="/images/3D_trajectories.gif" alt="Project 2">
-    <p><strong>Pebble accretion</strong><br>Planets accrete approximately mm to cm sized particles (pebbles). Pebbles are dragged by gas flow. I simulate pebble accretion coupled with hydrodynamical simulation data.</p>
+    <p><strong>Pebble accretion</strong><br>Planets accrete approximately mm to cm sized particles (pebbles). Pebbles are dragged by gas flow. I simulate pebble accretion combined with hydrodynamical simulation data.</p>
   </div>
     <div class="grid-item">
     <img src="/images/output.gif" alt="Project 3">
