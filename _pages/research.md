@@ -18,8 +18,9 @@ author_profile: true
   text-align: center;
 }
 .grid-item img {
-  max-width: 100%;
-  height: auto;
+  width: 100%;
+  height: 200px; /* ★ここで高さを統一 */
+  object-fit: cover; /* ★画像を切り取りながら枠にフィット */
   border-radius: 8px;
 }
 </style>
