@@ -22,7 +22,7 @@ Education
 ======
 * Ph.D in Earth and Planetary Sciences, Tokyo Institute of Technology, 2020-2023
 * M.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 2018-2020
-* B.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 20214-2018
+* B.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 2014-2018
   * Supervisers: Shigeru Ida, Hiroyuki Kurokawa (from B.S. to Ph.D)
   
 Grants and Fellowships
