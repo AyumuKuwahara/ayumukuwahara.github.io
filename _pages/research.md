@@ -37,4 +37,9 @@ author_profile: true
     <img src="/images/output.gif" alt="Project 3">
     <p><strong>Gas accretion onto gap-opening planets</strong><br>Giant planets accrete gas in a runnaway fashin.</p>
   </div>
+    </div>
+  <div class="grid-item">
+    <img src="/images/output.gif" alt="Project 4">
+    <p><strong>Dust ring and gap formation by low-mass planets</strong><br>The observed dust rings and gaps in protoplanetary disks could be imprints of forming planets. We find that an Earth mass planet at 10 au can generate dust rings and gaps.</p>
+  </div>
 </div>
