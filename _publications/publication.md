@@ -8,16 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div class="wordwrap"><a href="https://docs.google.com/document/d/1TAG3oUcoeZ7Dyqj5986lEaIxrNxtyLrdcGQYeUXQBgc/edit?tab=t.0
-">Full CV here</a></div>
 
-
-
-Education
+Grants and Fellowships
 ======
-* Ph.D in Earth and Planetary Sciences, Tokyo Institute of Technology, 2020-2023
-* M.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 2018-2020
-* B.S. in Earth and Planetary Sciences, Tokyo Institute of Technology, 20214-2018
+* Kuwahara, A., Lambrechts, M., Kurokawa, H., Okuzumi, S., and Tanigawa, T.
+(2024), Dust ring and gap formation by gas flow induced by low-mass planets
+embedded in protoplanetary disks II. Time-dependent model, A&A, 692, A45.
+* Kuwahara, A., and Kurokawa, H. (2024), Analytic description of the gas flow around
+planets embedded in protoplanetary disks, Astronomy and Astrophysics, 682, A14.
+* Kuwahara, A., Kurokawa, H., Tanigawa, T., and Ida, S. (2022), Dust ring and gap
+formation by gas flow induced by low-mass planets embedded in protoplanetary
+disks I. Steady-state model, A&A, 665, A122.
   
 Grants and Fellowships
 ======
@@ -30,11 +31,3 @@ Awards
 ======
 * 2022
   * Best Presentation Award, 2022 Fall Meeting of The Japanese Society for Planetary Science, Mito, Japan, September
-* 2020
-  * Representative of the graduating students, Department of Earth and Planetary Sciences, Tokyo Institute of Technology
-  * Best Award for Master’s Thesis, Department of Earth and Planetary Sciences, Tokyo Institute of Technology
-* 2018
-  * 3rd place in Oral Award, 48th Astronomical/Astrophysical Young Summer School Star and Planetary Section
-  * Outstanding Student Presentation Award in the Space and Planetary Sciences Section JpGU Meeting 2018
-  * Excellent Student Award for Outstanding Academic Achievement, Tokyo Institute of Technology
-  * Deputy representative of the graduating students, Tokyo Institute of Technology
