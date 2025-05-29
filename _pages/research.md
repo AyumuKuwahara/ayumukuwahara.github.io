@@ -26,7 +26,7 @@ author_profile: true
 
 <div class="grid-container">
   <div class="grid-item">
-    <img src="/images/project1.jpg" alt="Project 1">
+    <img src="/images/disk_plane_vel1_m0.100_b1e-02_tacc1e+05_t50.png" alt="Project 1">
     <p><strong>Gas flow around embedded planets</strong><br>Planets embedded in protoplanetary disks perturb the surrounding gas. I simulate gas dynamics with the public hydrodynamic code Athena++</p>
   </div>
   <div class="grid-item">
