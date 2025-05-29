@@ -27,10 +27,10 @@ author_profile: true
 <div class="grid-container">
   <div class="grid-item">
     <img src="/images/project1.jpg" alt="Project 1">
-    <p><strong>プロジェクトタイトル1</strong><br>研究概要の簡単な説明</p>
+    <p><strong>Gas flow around embedded planets</strong><br>Planets embedded in protoplanetary disks perturb the surrounding gas. I simulate gas dynamics with the public hydrodynamic code Athena++</p>
   </div>
   <div class="grid-item">
     <img src="/images/project2.jpg" alt="Project 2">
-    <p><strong>プロジェクトタイトル2</strong><br>別の研究紹介</p>
+    <p><strong>Pebble accretion</strong><br>Planets accrete approximately mm to cm sized particles (pebbles). </p>
   </div>
 </div>
