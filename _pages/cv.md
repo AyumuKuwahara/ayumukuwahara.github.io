@@ -27,7 +27,7 @@ Education
   
 Grants and Fellowships
 ======
-* 2020 - 2022
+* 2020 - 2023
   * JSPS Research Fellow, DC1, 3,400,000 JPY
 * 2018
   * 103th Hayakawa Satio Fund awarded by the Astronomical Society of Japan (Overseas Research Fund for Young Researchers), 218,394 JPY
