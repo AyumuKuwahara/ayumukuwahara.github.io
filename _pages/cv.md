@@ -18,6 +18,12 @@ redirect_from:
 </a></p>
 <br>
 
+Work experience
+======
+* postdoc, Center for Star and Planet Formation (StarPlan), Globe Institute, University of Copenhagen, 2023-
+  * working with Michiel Lambrechts  
+
+
 Education
 ======
 * Ph.D in Earth and Planetary Sciences, Tokyo Institute of Technology, 2020-2023
