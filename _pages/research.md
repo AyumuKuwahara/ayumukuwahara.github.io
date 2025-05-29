@@ -19,7 +19,7 @@ author_profile: true
 }
 .grid-item img {
   width: 100%;
-  height: 200px; /* ★ここで高さを統一 */
+  height: 300px; /* ★ここで高さを統一 */
   object-fit: cover; /* ★画像を切り取りながら枠にフィット */
   border-radius: 8px;
 }
