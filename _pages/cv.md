@@ -20,7 +20,9 @@ redirect_from:
 
 Work experience
 ======
-* postdoc, Center for Star and Planet Formation (StarPlan), Globe Institute, University of Copenhagen, 2023-
+* JSPS Overseas Research Fellow, Center for Star and Planet Formation (StarPlan), Globe Institute, University of Copenhagen, 2026-
+  * working with Michiel Lambrechts  
+* postdoc, Center for Star and Planet Formation (StarPlan), Globe Institute, University of Copenhagen, 2023-2026
   * working with Michiel Lambrechts  
 
 
@@ -33,6 +35,8 @@ Education
   
 Grants and Fellowships
 ======
+* 2026 - 2028
+  * JSPS Overseas Research Fellow
 * 2020 - 2023
   * JSPS Research Fellow, DC1, 3,400,000 JPY
 * 2018
