@@ -16,7 +16,8 @@ redirect_from:
 
 職歴
 ======
-* 研究員, Center for Star and Planet Formation (StarPlan), Globe Institute, University of Copenhagen, 2023-
+* 日本学術振興会 海外特別研究員, Center for Star and Planet Formation (StarPlan), Globe Institute, University of Copenhagen, 2026-
+* 研究員, Center for Star and Planet Formation (StarPlan), Globe Institute, University of Copenhagen, 2023-2026
   * 受入教員: Michiel Lambrechts  
 
 学歴
@@ -28,8 +29,10 @@ redirect_from:
   
 競争的資金等
 ======
+* 2026 - 2028
+  * 日本学術振興会 海外特別研究員
 * 2020 - 2023
-  * 日本学術振興会特別研究員 DC1, 3,400,000 JPY
+  * 日本学術振興会 特別研究員 DC1, 3,400,000 JPY
 * 2018
   * [第103回早川幸男基金](https://www.asj.or.jp/jp/activities/expenses/hayakawa_fund/recipients/2018/), 218,394 JPY
 
