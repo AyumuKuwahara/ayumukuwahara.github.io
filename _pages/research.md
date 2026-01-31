@@ -36,7 +36,7 @@ author_profile: true
   </div>
   <div class="grid-item">
     <img src="/images/3D_trajectories.gif" alt="Project 2">
-    <p><strong>Planets accrete millimeter- to centimeter-sized particles, known as pebbles. These pebbles are strongly coupled to the gas flow. I simulate pebble dynamics by post-processing hydrodynamical simulation data.</p>
+    <p><strong>Pebble accretion</strong><br>Planets accrete millimeter- to centimeter-sized particles, known as pebbles. These pebbles are strongly coupled to the gas flow. I simulate pebble dynamics by post-processing hydrodynamical simulation data.</p>
   </div>
     <div class="grid-item">
     <img src="/images/output.gif" alt="Project 3">
