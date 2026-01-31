@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Primary interest: disk-planet interection
+## Primary interest: disk-planet interaction
 
 
 <style>
@@ -32,18 +32,18 @@ author_profile: true
 <div class="grid-container">
   <div class="grid-item">
     <img src="/images/envelope.jpg" alt="Project 1">
-    <p><strong>Gas flow around embedded planets</strong><br>Planets embedded in protoplanetary disks perturb the surrounding gas. I simulate gas dynamics with the public hydrodynamic code Athena++.</p>
+    <p><strong>Gas flow around embedded planets</strong><br>Planets embedded in protoplanetary disks perturb the surrounding gas. I simulate the resulting gas dynamics using the public hydrodynamics code Athena++.</p>
   </div>
   <div class="grid-item">
     <img src="/images/3D_trajectories.gif" alt="Project 2">
-    <p><strong>Pebble accretion</strong><br>Planets accrete approximately mm to cm sized particles (pebbles). Pebbles are dragged by gas flow. I simulate pebble dynamics combined with hydrodynamical simulation data.</p>
+    <p><strong>Planets accrete millimeter- to centimeter-sized particles, known as pebbles. These pebbles are strongly coupled to the gas flow. I simulate pebble dynamics by post-processing hydrodynamical simulation data.</p>
   </div>
     <div class="grid-item">
     <img src="/images/output.gif" alt="Project 3">
-    <p><strong>Gas accretion onto gap-opening planets</strong><br>Giant planets accrete gas in a runnaway fashin. I simulate the disk-planet interaction and gas accretion process with the public hydrodynamic code Athena++.</p>
+    <p><strong>Gas accretion onto gap-opening planets</strong><br>Giant planets undergo runaway gas accretion in the disk. I simulate the disk–planet interaction and the gas accretion process using the public hydrodynamics code Athena++.</p>
   </div>
   <div class="grid-item">
     <img src="/images/141105_ALMA_HL_01.jpg" alt="Project 4">
-    <p><strong>Dust ring and gap formation by low-mass planets</strong><br>The observed dust rings and gaps in protoplanetary disks could be imprints of forming planets. We find that an Earth mass planet at 10 au can generate dust rings and gaps. Image Credit: ALMA (/NRAO/ESO/NAOJ)</p>
+    <p><strong>Dust ring and gap formation by low-mass planets</strong><br>Observed dust rings and gaps in protoplanetary disks may be signatures of forming planets. We show that an Earth-mass planet at 10 au can generate prominent dust rings and gaps. Image Credit: ALMA (/NRAO/ESO/NAOJ)</p>
   </div>
 </div>
