@@ -18,7 +18,7 @@ redirect_from:
 </a></p>
 <br>
 
-Work experience
+Work experiences
 ======
 * JSPS Overseas Research Fellow, Center for Star and Planet Formation (StarPlan), Globe Institute, University of Copenhagen, 2026-
   * working with Michiel Lambrechts  
