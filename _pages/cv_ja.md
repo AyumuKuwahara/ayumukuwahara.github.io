@@ -29,6 +29,8 @@ redirect_from:
   
 競争的資金等
 ======
+* 2026
+  * Carlsberg Foundation Conferences Grant 採択、代表申請者、Grant No. CF26-0860、80,000 DKK、デンマークでの国際ワークショップ開催助成。  
 * 2026 - 2028
   * 日本学術振興会 海外特別研究員
 * 2020 - 2023
