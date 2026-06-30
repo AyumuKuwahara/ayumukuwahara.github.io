@@ -35,6 +35,8 @@ Education
   
 Grants and Fellowships
 ======
+* 2026
+  * Carlsberg Foundation Conferences Grant, Principal Applicant, Grant No. CF26-0860, DKK 80,000, for an international workshop in Denmark
 * 2026 - 2028
   * JSPS Overseas Research Fellow
 * 2020 - 2023
