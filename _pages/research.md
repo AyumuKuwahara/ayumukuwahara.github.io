@@ -46,4 +46,8 @@ author_profile: true
     <img src="/images/141105_ALMA_HL_01.jpg" alt="Project 4">
     <p><strong>Dust ring and gap formation by low-mass planets</strong><br>Observed dust rings and gaps in protoplanetary disks may be signatures of forming planets. We show that an Earth-mass planet at 10 au can generate prominent dust rings and gaps. Image Credit: ALMA (/NRAO/ESO/NAOJ)</p>
   </div>
+  <div class="grid-item">
+    <img src="/images/dust_in_convective_envelope.gif" alt="Project 4">
+    <p><strong>Dust transport in envelopes of disk-embedded planets</strong><br>Planets embedded in protoplanetary disks accrete solids through their gaseous envelopes. The spatial distribution of these dust particles inside the envelopes of disk-embedded planets is poorly known. We performed 3D multifluid simulations that follow the dynamics of gas and dust.</p>
+  </div>
 </div>
