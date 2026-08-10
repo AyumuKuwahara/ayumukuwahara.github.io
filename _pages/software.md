@@ -28,7 +28,7 @@ Python 3.9 or newer is supported. The scientific package requires only NumPy and
 
 This package computes radial dust-to-gas ratio profiles in the envelopes of disk-embedded planets using the analytic models developed in Papers I and II.
 
-It supports both convectively stable and fully convective envelopes in 2D and 3D, without requiring Athena++ simulation data.
+It supports both convectively stable and fully convective envelopes in 2D and 3D, without requiring hydrodynamical simulation data.
 
 ### Features
 
