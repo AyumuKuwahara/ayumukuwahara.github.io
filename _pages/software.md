@@ -11,26 +11,77 @@ If more software packages are added in the future, duplicate the entire
 software block below, starting from "## Software Name".
 -->
 
-## Analytic-dust-to-gas
+## Analytic Dust-to-Gas Ratio Model
 
-Compute dust-to-gas ratio within an envelope of disk-embedded planet.
+A standalone Python implementation of the analytic dust-transport models developed in Kuwahara & Lambrechts (2026, Papers I and II).  
+Python 3.9 or newer is supported. The scientific package requires only NumPy and SciPy.
 
 ![Example output](/images/analytic-dust-to-gas.png)
+{: .align-center}
 
-[**GitHub**](https://github.com/AyumuKuwahara/analytic-dust-to-gas) &nbsp; | &nbsp;
-[**Paper**](https://doi.org/DOI)
+[GitHub](https://github.com/AyumuKuwahara/analytic-dust-to-gas){: .btn .btn--primary .btn--small}
+[Documentation](https://github.com/AyumuKuwahara/analytic-dust-to-gas/blob/main/docs/user_guide.md){: .btn .btn--info .btn--small}
+[Paper I](https://arxiv.org/abs/2608.05661){: .btn .btn--inverse .btn--small}
+[Paper II](https://arxiv.org/abs/2608.05672){: .btn .btn--inverse .btn--small}
 
 ### Overview
 
-This software provides tools for ...
+This package computes radial dust-to-gas ratio profiles in the envelopes of disk-embedded planets using the analytic models developed in Papers I and II.
 
-It was developed in connection with our study of ... and can be used to ...
-The code is designed to allow users to ...
-
+It supports both convectively stable and fully convective envelopes in 2D and 3D, without requiring Athena++ simulation data.
 
 ### Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-- Reproduction and visualization of results presented in the associated paper
+- Compute dust-to-gas ratio profiles for fixed-Stokes-number or fixed-particle-size dust.
+- Explore the 2D/3D envelope models presented in Papers I and II.
+- Visualize model profiles with ready-to-use Jupyter notebooks.
+- Export calculated profiles and model parameters to CSV and JSON files.
+
+### Example
+
+A dust profile for a 1-cm particle at 10 au can be computed with:
+
+```python
+from analytic_dust_to_gas import (
+    EnvelopePreset,
+    FixedParticleSize,
+    ProfileSetup,
+)
+
+setup = ProfileSetup(
+    envelope=EnvelopePreset.ISOLATED_CONVECTIVE_3D,
+    particle=FixedParticleSize(1.0),
+    orbital_radius_au=10.0,
+)
+
+result = setup.compute()
+print(result.dust_to_gas)
+```
+
+Interactive and publication-oriented Jupyter notebooks are also available for visualization and parameter exploration.
+
+### Citation
+
+If you use this software in your research, please cite both papers describing the analytic model.
+
+<div class="notice--primary" markdown="1">
+
+**Paper I — Convectively stable envelopes**
+
+Kuwahara, A. & Lambrechts, M. (2026)  
+*Dust transport in envelopes of disk-embedded planets: I. Convectively stable envelopes*
+
+[arXiv:2608.05661](https://arxiv.org/abs/2608.05661)
+
+</div>
+
+<div class="notice--primary" markdown="1">
+
+**Paper II — Fully convective envelopes**
+
+Kuwahara, A. & Lambrechts, M. (2026)  
+*Dust transport in envelopes of disk-embedded planets: II. Fully convective envelopes*
+
+[arXiv:2608.05672](https://arxiv.org/abs/2608.05672)
+
+</div>
