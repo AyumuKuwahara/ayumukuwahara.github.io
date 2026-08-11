@@ -13,8 +13,7 @@ software block below, starting from "## Software Name".
 
 ## Analytic Dust-to-Gas Ratio Model
 
-A standalone Python implementation of the analytic dust-transport models developed in Kuwahara & Lambrechts (2026, Papers I and II).  
-Python 3.9 or newer is supported. The scientific package requires only NumPy and SciPy.
+A standalone Python implementation of the analytic dust-transport models developed in Kuwahara & Lambrechts (2026, Papers I and II). Python 3.9 or newer is supported. The scientific package requires only NumPy and SciPy.
 
 ![Example output](/images/analytic-dust-to-gas.png)
 {: .align-center}
