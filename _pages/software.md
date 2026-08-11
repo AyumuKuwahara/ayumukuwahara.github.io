@@ -19,8 +19,8 @@ Python 3.9 or newer is supported. The scientific package requires only NumPy and
 ![Example output](/images/analytic-dust-to-gas.png)
 {: .align-center}
 
-[GitHub](https://github.com/AyumuKuwahara/analytic-dust-to-gas){: .btn .btn--primary .btn--small}
-[Documentation](https://github.com/AyumuKuwahara/analytic-dust-to-gas/blob/main/docs/user_guide.md){: .btn .btn--info .btn--small}
+[GitHub](https://github.com/AyumuKuwahara/analytic-dust-to-gas){: .btn .btn--small}
+[Documentation](https://github.com/AyumuKuwahara/analytic-dust-to-gas/blob/main/docs/user_guide.md){: .btn .btn--inverse .btn--small}
 [Paper I](https://arxiv.org/abs/2608.05661){: .btn .btn--inverse .btn--small}
 [Paper II](https://arxiv.org/abs/2608.05672){: .btn .btn--inverse .btn--small}
 
