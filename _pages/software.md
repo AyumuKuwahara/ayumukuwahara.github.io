@@ -59,29 +59,3 @@ print(result.dust_to_gas)
 ```
 
 Interactive and publication-oriented Jupyter notebooks are also available for visualization and parameter exploration.
-
-### Citation
-
-If you use this software in your research, please cite both papers describing the analytic model.
-
-<div class="notice--primary" markdown="1">
-
-**Paper I — Convectively stable envelopes**
-
-Kuwahara, A. & Lambrechts, M. (2026)  
-*Dust transport in envelopes of disk-embedded planets: I. Convectively stable envelopes*
-
-[arXiv:2608.05661](https://arxiv.org/abs/2608.05661)
-
-</div>
-
-<div class="notice--primary" markdown="1">
-
-**Paper II — Fully convective envelopes**
-
-Kuwahara, A. & Lambrechts, M. (2026)  
-*Dust transport in envelopes of disk-embedded planets: II. Fully convective envelopes*
-
-[arXiv:2608.05672](https://arxiv.org/abs/2608.05672)
-
-</div>
